@@ -1,0 +1,7 @@
+saidas/*
+!saidas/.gitkeep
+dados/*/briefing-privado.md
+*.env
+__pycache__/
+.DS_Store
+node_modules/
