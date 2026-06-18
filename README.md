@@ -97,4 +97,4 @@ GitHub, fica tudo seu.
 
 ## Quando precisar
 
-Agência Rex — Marketing e Performance · São Luís, MA
+Agência Rex — Marketing e Performance 
