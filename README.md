@@ -19,7 +19,7 @@ Dois caminhos. Escolhe o que combina contigo.
 Abre o Claude Code em qualquer pasta e cola:
 
 ```
-Clona o https://github.com/JA201058/RexOS.git, entra nela e roda /instalar.
+Clona o https://github.com/rexperformance/RexOS.git, entra nela e roda /instalar.
 ```
 
 Ele clona, entra na pasta nova e dispara a entrevista de setup. Você só responde.
@@ -27,7 +27,7 @@ Ele clona, entra na pasta nova e dispara a entrevista de setup. Você só respon
 ### Pelo terminal (mais previsível)
 
 ```
-git clone https://github.com/JA201058/RexOS.git
+git clone https://github.com/rexperformance/RexOS.git
 cd RexOS
 code .
 ```
