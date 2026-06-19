@@ -1,49 +1,40 @@
-# Núcleo de Contexto da Rex
+# Núcleo de Contexto
 
 > Este é o cérebro do RexOS. O Claude lê este arquivo antes de cada resposta.
-> Mantenha-o atualizado: quanto melhor a memória, melhor o sistema.
+> Preenchido pelo /instalar. Quanto melhor a memória, melhor o sistema.
 
-## A agência
+## A empresa
 
-**Agência Rex — Marketing e Performance**
-Marketing digital com foco em performance orgânica local.
-Sede: São Luís, Maranhão.
-Atuação: clientes locais e nacionais. Mais de 300 perfis otimizados.
+**[NOME DA EMPRESA]**
+[O que faz, em uma frase]
+Sede: [cidade/estado]
+Atuação: [local / nacional / online]
 
 ## Especialização
 
-SEO local orgânico via **Google Meu Negócio (GMN)** — o carro-chefe e diferencial
-da Rex. Mais de 300 perfis otimizados.
+[Principal serviço ou produto — o carro-chefe do negócio]
 
-Tráfego pago (Google Ads e Meta Ads) é oferecido como **serviço complementar**,
-para reforçar a operação orgânica quando faz sentido pro cliente — nunca como
-substituto do orgânico.
+## Serviços / Produtos
 
-## Serviços
-
-Estruturados em duas fases:
-1. **Setup** — montagem completa do perfil GMN (build inicial).
-2. **Gestão mensal recorrente** — manutenção, posts, respostas a avaliações,
-   monitoramento.
-
-Complementares:
-- **Tráfego pago** — campanhas Google/Meta como reforço (ver skill /anuncios).
+- [serviço 1]
+- [serviço 2]
+- [serviço 3]
 
 ## Time
 
-- **Joérica Aguiar** — fundadora.
-- **Nara Cutrim** — especialista em GMN.
-- Sócio de negócio.
+- [Nome] — [função]
+- [Nome] — [função]
 
-## Linha do tempo / posicionamento
+## Público / Cliente ideal
 
-- Especialização consistente em GMN ao longo do tempo.
-- Interesse em construir fontes de renda independentes da agência.
-- Projetos Claude em uso: "Montagem completa de GMN", diagnóstico, abordagem fria,
-  resposta a objeções.
+[Quem é o cliente do negócio. Avatar, dores, o que procura.]
+
+## Convenções de trabalho
+
+- Idioma: [padrão: português brasileiro]
+- Tom de voz: [direto / acolhedor / técnico / etc.]
+- Regras de entrega: [ex: sem emoji, sem preço em listagens, etc.]
 
 ## Modelo de venda
 
-- Diagnóstico gratuito via WhatsApp como porta de entrada.
-- Avatar primário: "Renata" — prestadora de serviço profissional.
-- Mapeamento de objeções estruturado.
+[Como o negócio capta e fecha clientes.]
