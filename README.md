@@ -1,7 +1,7 @@
 # RexOS
 
 > Você acaba de instalar o RexOS dentro do seu negócio.
-> Um produto da Agência Rex.
+> O sistema operacional do seu negócio dentro do Claude Code.
 
 O RexOS dá ao seu negócio uma memória própria, a sua identidade visual aplicada em
 tudo que o sistema gerar, e skills prontas pra operar conteúdo, propostas, anúncios e
