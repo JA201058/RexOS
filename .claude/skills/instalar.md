@@ -1,46 +1,62 @@
 # Skill: /instalar
 
-> Roda UMA vez. Entrevista de setup que transforma o molde RexOS no sistema
+> Roda UMA vez. Conversa de setup que transforma o molde RexOS no sistema
 > operacional de UMA empresa específica.
 
-## Antes de começar
-Confirme que a pasta foi renomeada pro nome do negócio (não "RexOS").
-Esta é a instância da empresa — o RexOS é o produto; isto é a casa do cliente.
+## Princípio: é conversa, não formulário
 
-## A entrevista (preencha a memória com as respostas)
+NUNCA despeje uma lista de perguntas. Converse. Uma coisa de cada vez, tom leve.
+Deixe a pessoa falar livre, extraia o máximo do que ela disser, e só pergunte
+o que faltar. Se ela já respondeu três coisas numa frase, não repergunte.
 
-### Bloco 1 — A empresa
-- Nome do negócio
-- O que faz (uma frase)
-- Cidade / atuação (local, nacional, online)
-- Carro-chefe (principal serviço/produto)
-- Lista de serviços/produtos
-- Time (quem faz o quê)
-- Cliente ideal (quem é, o que procura)
+## Abertura
 
-### Bloco 2 — Identidade visual
-- Cores (primária + destaque)
-- Fontes (título + corpo)
-- Formato de conteúdo padrão
-- Social proof, se houver
-- Tom de voz e regras de entrega (ex: sem emoji)
+Comece simples e aberto. Algo como:
 
-### Bloco 3 — Estado atual
-- Clientes/projetos ativos e em que fase estão
-- O que está pendente agora
+"Boa, sistema clonado. Antes de configurar tudo, me conta sobre o negócio —
+o que é, o que faz, pra quem. Pode falar do seu jeito, sem se preocupar com ordem."
 
-### Bloco 4 — Nicho / skills extras
-Pergunte: "Esse negócio é uma agência de marketing local / trabalha com
-Google Meu Negócio?"
+Deixe a pessoa responder. Escute de verdade.
+
+## Como conduzir
+
+Depois da resposta aberta, vá preenchendo as lacunas com perguntas soltas e
+naturais, UMA de cada vez. Exemplos de como puxar (não é roteiro fixo):
+
+- "Entendi. E qual é o carro-chefe? O que mais traz dinheiro pra vocês?"
+- "Quem toca o negócio com você?"
+- "Show. Agora a parte visual: que cores são a cara da marca?"
+- "Tem alguma regra de conteúdo que vocês seguem? Tipo, evita emoji, não põe preço?"
+- "Me fala do momento atual — tem cliente ou projeto em andamento agora?"
+
+Faça UMA pergunta, espere a resposta, faça a próxima. Como uma conversa de café.
+
+## O que você precisa ter coletado ao final
+
+Não precisa perguntar tudo isso explicitamente — extraia da conversa. Só
+pergunte o que não apareceu naturalmente:
+
+- A empresa: nome, o que faz, cidade/atuação, carro-chefe, serviços, time, cliente ideal
+- Identidade: cores, fontes (se souberem), formato de conteúdo, social proof, tom de voz, regras
+- Estado atual: clientes/projetos ativos e pendências
+- Nicho: é agência de marketing local / trabalha com Google Meu Negócio?
+
+## Nicho (pergunte leve, perto do fim)
+
+"Última coisa: o negócio mexe com marketing local, Google Meu Negócio, essas coisas?"
 - Se SIM → instale o kit de agência (montar-gmn, responder-avaliacoes, prospectar, seo)
   em .claude/skills/.
-- Pergunte sobre outros nichos conforme você for criando módulos.
+- Se NÃO → segue sem o kit.
 
 ## Ao terminar
+
 1. Preencha _memoria/nucleo-de-contexto.md, _memoria/estado-atual.md e
-   identidade/identidade-visual.md com tudo que foi coletado.
-2. Substitua todos os [PLACEHOLDERS].
-3. Rode /salvar pra versionar o estado inicial.
-4. Avise: "Pronto. Roda /abrir pra começar."
+   identidade/identidade-visual.md com tudo que a conversa revelou.
+2. Substitua todos os [PLACEHOLDERS]. Onde faltou info, deixe uma nota curta
+   do tipo "(a definir)" em vez de inventar.
+3. Mostre um resumo rápido do que entendeu e pergunte: "É isso mesmo? Quer
+   ajustar algo antes de eu salvar?"
+4. Depois do ok, rode /salvar pra versionar o estado inicial.
+5. Avise: "Pronto. Roda /abrir quando quiser começar."
 
 Depois disso, nunca mais rode /instalar nesta instância.
