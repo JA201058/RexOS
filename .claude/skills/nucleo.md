@@ -12,6 +12,6 @@ Varre o projeto e atualiza _memoria/estado-atual.md: move concluídos pro
 histórico, atualiza pendências, registra a sessão.
 
 ## /mapear-rotina
-Identifica algo que a Joérica repete manualmente, documenta o passo a passo
+Identifica algo que a pessoa repete manualmente, documenta o passo a passo
 e transforma numa nova skill em .claude/skills/. Cada workflow que amadurece
 vira subagente especializado.

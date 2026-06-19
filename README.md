@@ -54,7 +54,8 @@ a memória · /novo-projeto cria pasta isolada pra cada cliente ou projeto ·
 /mapear-rotina descobre o que você repete e transforma em skill personalizada.
 
 **Conteúdo** — /conteudo-visual cria carrossel, post ou story com a identidade do
-negócio (geração via código).
+negócio · /publicar-tema pega um tema e entrega artigo de blog + carrossel + 3 legendas
+amarradas · /aprovar-post prepara o pacote pra publicar em blog + Instagram + Facebook.
 
 **Comercial** — /proposta monta a proposta comercial em HTML pronta pra deploy no
 Netlify.
@@ -62,9 +63,12 @@ Netlify.
 **Anúncios** — /anuncios monta campanhas de tráfego pago (Google/Meta) e devolve
 relatório com alertas e recomendações.
 
+**Produção** — /analisar-dados lê CSV/XLSX/PDF e gera resumo executivo · /email-profissional
+rascunha email a partir de contexto livre.
+
 **Skills extras** — alguns ramos recebem skills sob medida na implementação. Agências
 de marketing local, por exemplo, ganham o build completo de Google Meu Negócio,
-respostas a avaliações e prospecção de leads.
+respostas a avaliações, prospecção de leads e o fluxo completo de SEO local.
 
 ---
 

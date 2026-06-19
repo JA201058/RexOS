@@ -45,15 +45,19 @@ Leia `.claude/skills/` para a especificação completa de cada um.
 
 **Produção (universais):**
 - `/conteudo-visual` — cria carrossel, post ou story com a identidade do negócio
+- `/publicar-tema` — de um tema, entrega artigo de blog + carrossel + 3 legendas
+- `/aprovar-post` — prepara pacote pra publicação multi-canal (blog + IG + FB)
 - `/proposta` — monta proposta comercial em HTML
 - `/anuncios` — campanhas de tráfego pago (Google/Meta) e relatórios
+- `/analisar-dados` — lê CSV/XLSX/PDF e gera resumo executivo
+- `/email-profissional` — rascunha email a partir de contexto livre
 
 ## Skills extras (plugáveis)
 
 Alguns ramos precisam de skills específicas que não vêm no molde padrão.
 Elas são adicionadas em `.claude/skills/` durante a implementação, conforme o nicho.
 Exemplo: agências de marketing local recebem o kit com /montar-gmn,
-/responder-avaliacoes e /prospectar.
+/responder-avaliacoes, /prospectar e /seo (fluxo completo de SEO local em 8 passos).
 
 ## Regra de ouro
 

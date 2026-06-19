@@ -1,9 +1,9 @@
 # Skill: /anuncios
 
-> Tráfego pago. Serviço complementar — o carro-chefe da Rex segue sendo o GMN orgânico.
+> Tráfego pago. Serviço complementar — reforça a operação principal do negócio.
 
 ## Quando usar
-Cliente que, além do GMN, quer ativar campanha paga (Google Ads ou Meta Ads).
+Cliente que, quer ativar campanha paga (Google Ads ou Meta Ads).
 Tráfego pago entra como reforço da operação orgânica, não como substituto.
 
 ## Pré-requisito
@@ -18,7 +18,7 @@ Tráfego pago entra como reforço da operação orgânica, não como substituto.
 Monta a campanha inteira em CSV pronto pra importar no Google Ads Editor:
 grupos de anúncios, palavras-chave (correspondências), anúncios responsivos
 (títulos + descrições dentro dos limites), extensões. Usa as palavras-chave
-reais do cliente em _memoria/.
+reais do cliente em _memoria/, quando houver.
 
 ### /anuncio-meta
 Estrutura a campanha Meta Ads: público (avatar do cliente), criativos
@@ -33,4 +33,4 @@ alertas (CPA fora da meta, CTR baixo, verba estourando) e recomendações de aju
 - Português brasileiro, sem emojis nas entregas de cliente.
 - Closed loop: campanha roda → captura resultado → reavalia → ajusta.
 - Salva exports e relatórios em saidas/.
-- O orgânico (GMN) e o pago devem se reforçar, nunca competir verba à toa.
+- A operação principal e o pago devem se reforçar, nunca competir verba à toa.

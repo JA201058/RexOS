@@ -1,16 +1,46 @@
 # Skill: /instalar
 
-> Roda UMA vez. Entrevista de setup que preenche a memória da Rex.
+> Roda UMA vez. Entrevista de setup que transforma o molde RexOS no sistema
+> operacional de UMA empresa específica.
 
-## Fluxo
-1. Confirme que está na pasta certa (renomeada pro negócio, não "RexOS").
-2. Entreviste sobre o estado ATUAL da agência:
-   - Clientes ativos e em que fase cada um está (setup / gestão).
-   - O que está pendente agora.
-   - Quem está no time.
-3. Preencha _memoria/nucleo-de-contexto.md e _memoria/estado-atual.md com as respostas.
-4. Confirme a identidade visual em identidade/ (paleta, fontes).
-5. Faça /salvar pra versionar o estado inicial.
-6. Avise: "Pronto. Roda /abrir pra começar."
+## Antes de começar
+Confirme que a pasta foi renomeada pro nome do negócio (não "RexOS").
+Esta é a instância da empresa — o RexOS é o produto; isto é a casa do cliente.
 
-Depois disso, nunca mais rode /instalar.
+## A entrevista (preencha a memória com as respostas)
+
+### Bloco 1 — A empresa
+- Nome do negócio
+- O que faz (uma frase)
+- Cidade / atuação (local, nacional, online)
+- Carro-chefe (principal serviço/produto)
+- Lista de serviços/produtos
+- Time (quem faz o quê)
+- Cliente ideal (quem é, o que procura)
+
+### Bloco 2 — Identidade visual
+- Cores (primária + destaque)
+- Fontes (título + corpo)
+- Formato de conteúdo padrão
+- Social proof, se houver
+- Tom de voz e regras de entrega (ex: sem emoji)
+
+### Bloco 3 — Estado atual
+- Clientes/projetos ativos e em que fase estão
+- O que está pendente agora
+
+### Bloco 4 — Nicho / skills extras
+Pergunte: "Esse negócio é uma agência de marketing local / trabalha com
+Google Meu Negócio?"
+- Se SIM → instale o kit de agência (montar-gmn, responder-avaliacoes, prospectar, seo)
+  em .claude/skills/.
+- Pergunte sobre outros nichos conforme você for criando módulos.
+
+## Ao terminar
+1. Preencha _memoria/nucleo-de-contexto.md, _memoria/estado-atual.md e
+   identidade/identidade-visual.md com tudo que foi coletado.
+2. Substitua todos os [PLACEHOLDERS].
+3. Rode /salvar pra versionar o estado inicial.
+4. Avise: "Pronto. Roda /abrir pra começar."
+
+Depois disso, nunca mais rode /instalar nesta instância.
