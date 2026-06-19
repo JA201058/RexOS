@@ -1,6 +1,6 @@
 # RexOS
 
-> Você acaba de instalar o RexOS dentro do seu negócio.
+> Você acaba de instalar o RexOS.
 > O sistema operacional do seu negócio dentro do Claude Code.
 
 O RexOS dá ao seu negócio uma memória própria, a sua identidade visual aplicada em
