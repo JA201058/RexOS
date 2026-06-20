@@ -61,6 +61,19 @@ uma pergunta por vez." E siga.
 3. Mostre um resumo do que entendeu e pergunte: "É isso mesmo? Quer ajustar algo
    antes de eu salvar?"
 4. Depois do ok, rode /salvar pra versionar o estado inicial.
-5. Avise: "Pronto. Roda /abrir quando quiser começar."
+5. Avise que está pronto e dê a instrução final de renomear a pasta, em destaque:
+
+   "Pronto! Só falta um passo manual que eu não consigo fazer por você:
+   **renomear a pasta do projeto** pro nome do seu negócio.
+
+   Como eu estou rodando dentro dela, o computador não deixa renomear agora.
+   Faça assim:
+   1. Feche o Claude Code (digite /exit ou feche o terminal).
+   2. Feche o VS Code.
+   3. No Explorador de Arquivos, ache a pasta 'RexOS' e renomeie pro nome do
+      negócio (ex: 'Car Veículos').
+   4. Abra essa pasta de novo no VS Code e rode /abrir quando quiser começar.
+
+   A pasta não fica como 'RexOS' — ela é o seu negócio agora."
 
 Depois disso, nunca mais rode /instalar nesta instância.
