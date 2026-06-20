@@ -1,4 +1,4 @@
-# Skill: /email-profissional
+# email-profissional
 
 > Rascunha um email profissional a partir de contexto livre.
 

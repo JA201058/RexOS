@@ -1,4 +1,4 @@
-# Skill: /conteudo-visual
+# conteudo-visual
 
 > Cria peças visuais (carrossel, post, story) com a identidade do negócio.
 

@@ -31,9 +31,10 @@ Roda em **closed loop**: decide → executa → captura o resultado → reavalia
 Toda skill produz resultado versionável em `saidas/` e, quando faz sentido, vira
 commit no GitHub.
 
-## Comandos (skills disponíveis)
+## Comandos disponíveis
 
-Leia `.claude/skills/` para a especificação completa de cada um.
+Os comandos ficam em `.claude/commands/`. Cada arquivo .md é um comando.
+Quando você digita `/`, eles aparecem na lista.
 
 **Operação:**
 - `/instalar` — roda UMA vez; entrevista de setup que personaliza o sistema
@@ -55,7 +56,7 @@ Leia `.claude/skills/` para a especificação completa de cada um.
 ## Skills extras (plugáveis)
 
 Alguns ramos precisam de skills específicas que não vêm no molde padrão.
-Elas são adicionadas em `.claude/skills/` durante a implementação, conforme o nicho.
+Elas são adicionadas em `.claude/commands/` durante a implementação, conforme o nicho.
 Exemplo: agências de marketing local recebem o kit com /montar-gmn,
 /responder-avaliacoes, /prospectar e /seo (fluxo completo de SEO local em 8 passos).
 

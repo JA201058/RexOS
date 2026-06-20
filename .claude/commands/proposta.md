@@ -1,4 +1,4 @@
-# Skill: /proposta
+# proposta
 
 > Proposta comercial em HTML, deployável via Netlify Drop.
 

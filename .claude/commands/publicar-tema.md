@@ -1,4 +1,4 @@
-# Skill: /publicar-tema
+# publicar-tema
 
 > Pega um tema e entrega um pacote de conteúdo completo e amarrado:
 > artigo de blog + carrossel + 3 legendas. Tudo coerente entre si.

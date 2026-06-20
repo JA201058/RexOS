@@ -1,4 +1,4 @@
-# Skill: /aprovar-post
+# aprovar-post
 
 > Prepara um pacote de conteúdo pra publicação multi-canal (blog + Instagram +
 > Facebook) e organiza tudo pra você aprovar e disparar.

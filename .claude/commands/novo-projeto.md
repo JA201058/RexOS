@@ -1,4 +1,4 @@
-# Skill: /novo-projeto
+# novo-projeto
 
 > Cria pasta isolada pra um cliente novo.
 

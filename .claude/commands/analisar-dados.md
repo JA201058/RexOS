@@ -1,4 +1,4 @@
-# Skill: /analisar-dados
+# analisar-dados
 
 > Lê CSV / XLSX / PDF e gera um resumo executivo claro.
 

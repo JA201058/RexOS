@@ -1,4 +1,4 @@
-# Skill: /instalar
+# instalar
 
 > Roda UMA vez. Entrevista de setup que transforma o molde RexOS no sistema
 > operacional de UMA empresa específica.
