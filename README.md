@@ -1,11 +1,11 @@
 # RexOS
 
-> Você acaba de instalar o RexOS.
 > O sistema operacional do seu negócio dentro do Claude Code.
+> Um produto da Agência Rex.
 
 O RexOS dá ao seu negócio uma memória própria, a sua identidade visual aplicada em
 tudo que o sistema gerar, e skills prontas pra operar conteúdo, propostas, anúncios e
-relatórios com você dirigindo.
+relatórios — com você dirigindo.
 
 Não importa o ramo: clínica, loja, agência, escritório, e-commerce. Você clona,
 roda o setup uma vez, e o RexOS vira o sistema operacional da sua empresa.
@@ -76,7 +76,7 @@ respostas a avaliações, prospecção de leads e o fluxo completo de SEO local.
 
 IA não é uma ferramenta que sua empresa usa. É o sistema operacional em que ela roda.
 
-A diferença não é velocidade. É capacidade nova, uma pessoa com IA constrói o que
+A diferença não é velocidade. É capacidade nova — uma pessoa com IA constrói o que
 antes exigia time inteiro. Cada processo crítico que hoje roda em open loop (decide ->
 executa -> repete cego) vira closed loop dentro do RexOS (decide -> executa -> captura
 -> reavalia -> ajusta sozinho).
@@ -101,7 +101,7 @@ GitHub, fica tudo seu.
 
 ## Quer o RexOS na sua empresa?
 
-A Agência Rex implementa o RexOS sob medida pro seu negócio: setup completo,
+A Agência Rex implementa o RexOS sob medida pro seu negócio — setup completo,
 identidade configurada e skills do seu nicho.
 
 Agência Rex — Marketing e Performance

@@ -1,61 +1,65 @@
 # Skill: /instalar
 
-> Roda UMA vez. Conversa de setup que transforma o molde RexOS no sistema
+> Roda UMA vez. Entrevista de setup que transforma o molde RexOS no sistema
 > operacional de UMA empresa específica.
 
-## Princípio: é conversa, não formulário
+## Princípio
+É entrevista, não formulário. UMA pergunta por vez. Tom leve e direto.
+Espere a resposta antes de fazer a próxima. Nunca despeje várias perguntas juntas.
 
-NUNCA despeje uma lista de perguntas. Converse. Uma coisa de cada vez, tom leve.
-Deixe a pessoa falar livre, extraia o máximo do que ela disser, e só pergunte
-o que faltar. Se ela já respondeu três coisas numa frase, não repergunte.
+## Passo 0 — Perfil
 
-## Abertura
+Comece perguntando o perfil do negócio (use botões/opções quando a interface
+permitir; senão, pergunta normal):
 
-Comece simples e aberto. Algo como:
+"Qual perfil mais combina com o seu negócio?"
+- **Solopreneur / criador solo** — uma pessoa só, mistura de marca pessoal e negócio
+- **Freelancer** — atende clientes, organiza por projeto/cliente
+- **Agência / consultoria** — equipe pequena entregando pra vários clientes
+- **Empresa** — empresa estabelecida com setores (marketing, comercial, financeiro, etc.)
+- **Outro**
 
-"Boa, sistema clonado. Antes de configurar tudo, me conta sobre o negócio —
-o que é, o que faz, pra quem. Pode falar do seu jeito, sem se preocupar com ordem."
+Guarde a resposta. Depois diga algo como: "Agora vamos para a entrevista —
+uma pergunta por vez." E siga.
 
-Deixe a pessoa responder. Escute de verdade.
+## As 9 perguntas (uma de cada vez, nesta ordem)
 
-## Como conduzir
+**Sobre o negócio:**
 
-Depois da resposta aberta, vá preenchendo as lacunas com perguntas soltas e
-naturais, UMA de cada vez. Exemplos de como puxar (não é roteiro fixo):
+1. Como você chama o que você faz? (nome da empresa, ou seu nome se for marca pessoal)
 
-- "Entendi. E qual é o carro-chefe? O que mais traz dinheiro pra vocês?"
-- "Quem toca o negócio com você?"
-- "Show. Agora a parte visual: que cores são a cara da marca?"
-- "Tem alguma regra de conteúdo que vocês seguem? Tipo, evita emoji, não põe preço?"
-- "Me fala do momento atual — tem cliente ou projeto em andamento agora?"
+2. O que seu negócio entrega, em uma frase do jeito que você falaria pro vizinho?
 
-Faça UMA pergunta, espere a resposta, faça a próxima. Como uma conversa de café.
+3. Quem te paga? Descreve o perfil de cliente real em uma ou duas frases (sem persona
+   genérica, pode ser bem específico).
 
-## O que você precisa ter coletado ao final
+4. Você toca sozinho ou tem equipe? Se tem, quantos e cada um fazendo o quê?
 
-Não precisa perguntar tudo isso explicitamente — extraia da conversa. Só
-pergunte o que não apareceu naturalmente:
+5. Me cola um exemplo da tua escrita — uma legenda do Insta, um email pra cliente,
+   qualquer coisa real e recente. Assim eu calibro o jeito de escrever sem precisar
+   adivinhar.
 
-- A empresa: nome, o que faz, cidade/atuação, carro-chefe, serviços, time, cliente ideal
-- Identidade: cores, fontes (se souberem), formato de conteúdo, social proof, tom de voz, regras
-- Estado atual: clientes/projetos ativos e pendências
-- Nicho: é agência de marketing local / trabalha com Google Meu Negócio?
+6. O que te dá ranço quando alguém escreve assim? (ex: "vamos juntos!", emoji em email
+   formal, "caro cliente", jargão de guru, "alavancar", "sinergia")
 
-## Nicho (pergunte leve, perto do fim)
+**Sobre foco:**
 
-"Última coisa: o negócio mexe com marketing local, Google Meu Negócio, essas coisas?"
-- Se SIM → instale o kit de agência (montar-gmn, responder-avaliacoes, prospectar, seo)
-  em .claude/skills/.
-- Se NÃO → segue sem o kit.
+7. Qual o gargalo do teu negócio hoje? O que tá segurando ele de crescer?
+
+8. Se eu pudesse tirar UMA coisa que você repete toda semana das tuas costas, qual seria?
+
+**Sobre identidade visual:**
+
+9. Tem identidade visual definida ou tá no zero? Se tem, me passa as cores principais
+   e a fonte.
 
 ## Ao terminar
 
 1. Preencha _memoria/nucleo-de-contexto.md, _memoria/estado-atual.md e
-   identidade/identidade-visual.md com tudo que a conversa revelou.
-2. Substitua todos os [PLACEHOLDERS]. Onde faltou info, deixe uma nota curta
-   do tipo "(a definir)" em vez de inventar.
-3. Mostre um resumo rápido do que entendeu e pergunte: "É isso mesmo? Quer
-   ajustar algo antes de eu salvar?"
+   identidade/identidade-visual.md com tudo que a entrevista revelou.
+2. Substitua os [PLACEHOLDERS]. Onde faltou info, deixe "(a definir)" em vez de inventar.
+3. Mostre um resumo do que entendeu e pergunte: "É isso mesmo? Quer ajustar algo
+   antes de eu salvar?"
 4. Depois do ok, rode /salvar pra versionar o estado inicial.
 5. Avise: "Pronto. Roda /abrir quando quiser começar."
 
